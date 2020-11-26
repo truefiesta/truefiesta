@@ -2,13 +2,13 @@
 # My name is Yulia.
 I'm a **front-end developer** based in Sydney 🇦🇺.
 
-On a daily basis I work with these tecknologies and tools:
+Most often I use these technologies and tools:
 * **for development**: JavaScript, React, Redux, HTML, CSS
 * **for testing**: Jest, Enzyme
 * **for bundling**: Webpack
 * **for prototyping**: Figma, Adobe Illustrator.
 
-
+## My projects
 <!--
 ## Personal projects - Coming soon
 -->
@@ -22,11 +22,11 @@ Sometimes I take online courses to learn from other developers and improve my sk
 
 | Project     | Description | Technologies | Completed |
 | ------| ------ | -----| ---- |
-| [Six cities](https://github.com/truefiesta/six-cities) | A vacation rental online marketplace. It provides detailed information about current offers, allows users to log in, leave a review, see offers' locations on map and more. | TypeScript, React, Redux, Jest, Enzyme, Leaflet, Webpack | Aug 2020 |
-| [Big Trip](https://github.com/truefiesta/big-trip)  | A trip planner SPA. Users can create itinerary, calculate expenses and get information about tourst attractins located near the destinations included in the trip. | JavaScript ES6, Webpack, Chart.js, Flatpickr.js, Moment.js | Nov 2020 |
-| [Keksobooking](https://github.com/truefiesta/keksobooking) | A web application that allows users to see rental properties in the center of Tokio city or to create a listing with details of their property if they want other people to find it. | JavaScript ES5 | Mar 2020 |
-| [Mishka](https://github.com/truefiesta/mishka) | A responsive website of a store that sells cute hand-made creations that could be bought to decorate your home or as a gift for someone special. | Gulp, HTML5, SASS, BEM, cross browser compartibility (including Interner Explorer 11) | Jan 2020 |
-| [Device](https://github.com/truefiesta/device) | An e-commerce website of a store called Device. It specializes in gadgets. | HTML5, CSS3, JavaScript, cross browser compartibility (including Interner Explorer 11) | Nov 2019 |
+| [Six cities](https://github.com/truefiesta/six-cities) | A vacation rental online marketplace build with React. It provides detailed information about current offers, allows users to log in, leave a review, see offers' locations on map and more. | TypeScript, React, Redux, Jest, Enzyme, Leaflet, Webpack | Aug 2020 |
+| [Big Trip](https://github.com/truefiesta/big-trip)  | A trip planner SPA. Users can create itinerary, calculate expenses and get information about tourist attractions located near the destinations included in the trip. | JavaScript ES6, Webpack, Chart.js, Flatpickr.js, Moment.js | May 2020 |
+| [Keksobooking](https://github.com/truefiesta/keksobooking) | A web application that allows users to see rental properties in the center of Tokio city and create a detailed listing of their property if they want others to find it. | JavaScript ES5 | Mar 2020 |
+| [Mishka](https://github.com/truefiesta/mishka) | A markup of a responsive e-commerce website. Mishka store sells cute hand-made creations that could be bought to decorate your home or as a gift for someone special. | Gulp, HTML5, SASS, BEM, cross browser compartibility (including Interner Explorer 11) | Jan 2020 |
+| [Device](https://github.com/truefiesta/device) | An e-commerce website of a store called Device. Device store specializes in gadgets. | HTML5, CSS3, JavaScript, cross browser compartibility (including Interner Explorer 11) | Nov 2019 |
 </details>
 <!--
 **truefiesta/truefiesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
