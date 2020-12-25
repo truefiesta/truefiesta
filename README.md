@@ -45,7 +45,6 @@ Most often I use these technologies and tools:
     <td>JavaScript, React, Jest, Webpack</td>
   </tr>
 </table>
-<br />
 
 ### Course projects
 Sometimes I take online courses to learn from other developers and improve my skills. Below you can see some of the projects I built while studying.
