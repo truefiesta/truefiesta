@@ -9,9 +9,43 @@ Most often I use these technologies and tools:
 * **for prototyping**: Figma, Adobe Illustrator.
 
 ## My projects
-<!--
-## Personal projects - Coming soon
--->
+
+### Personal projects
+<table>
+  <tr>
+    <td rowspan="3" width="200">
+      <a href="https://github.com/truefiesta/dream-pizza" target="_blank">
+        <img src="https://raw.githubusercontent.com/truefiesta/dream-pizza/main/src/assets/img/dream-pizza-top.png" width="100%" height="auto" alt="Dream Pizza">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/truefiesta/dream-pizza" target="_blank">Dream Pizza</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Dream Pizza is a website of a fictional pizza chain. Users can see Dream Pizza locations on a map if they want to visit a restaurant offline or they can order a pizza online.</td>
+  </tr>
+  <tr>
+    <td>JavaScript, React, Redux, Jest, Webpack</td>
+  </tr>
+  <tr>
+    <td rowspan="3" width="200">
+      <a href="https://github.com/truefiesta/game2048" target="_blank">
+        <img src="https://raw.githubusercontent.com/truefiesta/game2048/master/src/img/game-preview.png" width="100%" height="auto" alt="Game 2048">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/truefiesta/game2048" target="_blank">Game 2048</a>
+    </td>
+  </tr>
+  <tr>
+    <td>This project is my version of a famous single-player sliding block puzzle game. My version has an additional feature and allows a user to play on an 8 by 8 board.</td>
+  </tr>
+  <tr>
+    <td>JavaScript, React, Jest, Webpack</td>
+  </tr>
+</table>
+<br />
 
 ### Course projects
 Sometimes I take online courses to learn from other developers and improve my skills. Below you can see some of the projects I built while studying.
